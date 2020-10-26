@@ -125,5 +125,37 @@ h5{
 .hebiz-go img, .hebiz-bike img{
   width: 100%;
   float: left;
+}
 
+.phonecentered{
+  width: 100%;
+  height: 630px;
+  background-image: url("../img/phonecenter.png");
+}
+
+
+
+.howleft{
+  width: 50%;
+  float: left;
+}
+
+.howright{
+  width: 50%;
+  float: left;
+}
+
+.howleft  h2{
+  text-align: center;
+  padding-top: 145px;
+
+}
+
+.howright, h4 p{
+  text-align: center;
+  padding-top: 145px;
+}
+
+.howleft, .howright{
+  height: 400px;
 }
